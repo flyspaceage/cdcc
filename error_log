@@ -1,0 +1,315 @@
+[23-Apr-2017 01:42:13 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/triplej/public_html/cdcc/forms/customers.php on line 23
+[23-Apr-2017 01:42:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 75
+[23-Apr-2017 01:42:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 87
+[23-Apr-2017 01:42:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 99
+[23-Apr-2017 01:42:13 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/triplej/public_html/cdcc/forms/booking.php on line 136
+[23-Apr-2017 03:22:04 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/triplej/public_html/cdcc/forms/customers.php on line 23
+[23-Apr-2017 03:22:04 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 75
+[23-Apr-2017 03:22:04 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 87
+[23-Apr-2017 03:22:04 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 99
+[23-Apr-2017 03:22:04 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/triplej/public_html/cdcc/forms/booking.php on line 136
+[23-Apr-2017 03:23:16 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 75
+[23-Apr-2017 03:23:16 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 87
+[23-Apr-2017 03:23:16 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 99
+[23-Apr-2017 03:23:16 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/triplej/public_html/cdcc/forms/booking.php on line 136
+[23-Apr-2017 03:26:48 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 75
+[23-Apr-2017 03:26:48 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 87
+[23-Apr-2017 03:26:48 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 99
+[23-Apr-2017 03:26:48 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/triplej/public_html/cdcc/forms/booking.php on line 136
+[23-Apr-2017 03:27:54 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 75
+[23-Apr-2017 03:27:54 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 87
+[23-Apr-2017 03:27:54 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 99
+[23-Apr-2017 03:27:54 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/triplej/public_html/cdcc/forms/booking.php on line 136
+[23-Apr-2017 03:28:11 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 75
+[23-Apr-2017 03:28:11 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 87
+[23-Apr-2017 03:28:11 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 99
+[23-Apr-2017 03:28:11 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/triplej/public_html/cdcc/forms/booking.php on line 136
+[23-Apr-2017 03:31:12 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 75
+[23-Apr-2017 03:31:12 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 87
+[23-Apr-2017 03:31:12 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 99
+[23-Apr-2017 03:31:12 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/triplej/public_html/cdcc/forms/booking.php on line 136
+[23-Apr-2017 03:37:17 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/triplej/public_html/cdcc/forms/booking.php on line 38
+[23-Apr-2017 04:52:14 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/triplej/public_html/cdcc/forms/chkavail.php on line 6
+[23-Apr-2017 04:52:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 74
+[23-Apr-2017 04:52:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 86
+[23-Apr-2017 04:52:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 98
+[23-Apr-2017 04:52:41 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/triplej/public_html/cdcc/forms/booking.php on line 135
+[23-Apr-2017 04:52:56 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 14
+[23-Apr-2017 04:52:56 UTC] PHP Warning:  mysqli_error(): Couldn't fetch mysqli in /home/triplej/public_html/cdcc/forms/booking.php on line 34
+[23-Apr-2017 04:52:56 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 74
+[23-Apr-2017 04:52:56 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 86
+[23-Apr-2017 04:52:56 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 98
+[23-Apr-2017 04:52:56 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/triplej/public_html/cdcc/forms/booking.php on line 135
+[23-Apr-2017 04:55:20 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 74
+[23-Apr-2017 04:55:20 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 86
+[23-Apr-2017 04:55:20 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 98
+[23-Apr-2017 04:55:20 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/triplej/public_html/cdcc/forms/booking.php on line 135
+[23-Apr-2017 04:55:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/chkavail.php on line 51
+[23-Apr-2017 04:55:32 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 14
+[23-Apr-2017 04:55:32 UTC] PHP Warning:  mysqli_error(): Couldn't fetch mysqli in /home/triplej/public_html/cdcc/forms/booking.php on line 34
+[23-Apr-2017 04:55:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 74
+[23-Apr-2017 04:55:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 86
+[23-Apr-2017 04:55:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 98
+[23-Apr-2017 04:55:32 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/triplej/public_html/cdcc/forms/booking.php on line 135
+[23-Apr-2017 04:57:01 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 74
+[23-Apr-2017 04:57:01 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 86
+[23-Apr-2017 04:57:01 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 98
+[23-Apr-2017 04:57:01 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/triplej/public_html/cdcc/forms/booking.php on line 135
+[23-Apr-2017 04:57:10 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/chkavail.php on line 52
+[23-Apr-2017 04:57:10 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 74
+[23-Apr-2017 04:57:10 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 86
+[23-Apr-2017 04:57:10 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 98
+[23-Apr-2017 04:57:10 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/triplej/public_html/cdcc/forms/booking.php on line 135
+[23-Apr-2017 04:57:54 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 74
+[23-Apr-2017 04:57:54 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 86
+[23-Apr-2017 04:57:54 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 98
+[23-Apr-2017 04:57:54 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/triplej/public_html/cdcc/forms/booking.php on line 135
+[23-Apr-2017 04:58:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 74
+[23-Apr-2017 04:58:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 86
+[23-Apr-2017 04:58:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 98
+[23-Apr-2017 04:58:13 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/triplej/public_html/cdcc/forms/booking.php on line 135
+[23-Apr-2017 05:07:01 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 74
+[23-Apr-2017 05:07:01 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 86
+[23-Apr-2017 05:07:01 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 98
+[23-Apr-2017 05:07:01 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/triplej/public_html/cdcc/forms/booking.php on line 135
+[23-Apr-2017 05:13:04 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 74
+[23-Apr-2017 05:13:04 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 86
+[23-Apr-2017 05:13:04 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 98
+[23-Apr-2017 05:13:04 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/triplej/public_html/cdcc/forms/booking.php on line 135
+[23-Apr-2017 05:16:02 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 74
+[23-Apr-2017 05:16:02 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 86
+[23-Apr-2017 05:16:02 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 98
+[23-Apr-2017 05:16:02 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/triplej/public_html/cdcc/forms/booking.php on line 135
+[23-Apr-2017 05:20:49 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 74
+[23-Apr-2017 05:20:49 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 86
+[23-Apr-2017 05:20:49 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 98
+[23-Apr-2017 05:20:49 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/triplej/public_html/cdcc/forms/booking.php on line 135
+[23-Apr-2017 05:22:21 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 74
+[23-Apr-2017 05:22:21 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 86
+[23-Apr-2017 05:22:21 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 98
+[23-Apr-2017 05:22:21 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/triplej/public_html/cdcc/forms/booking.php on line 135
+[23-Apr-2017 05:22:53 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 74
+[23-Apr-2017 05:22:53 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 86
+[23-Apr-2017 05:22:53 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 98
+[23-Apr-2017 05:22:53 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/triplej/public_html/cdcc/forms/booking.php on line 135
+[23-Apr-2017 05:23:22 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 74
+[23-Apr-2017 05:23:22 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 86
+[23-Apr-2017 05:23:22 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 98
+[23-Apr-2017 05:23:22 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/triplej/public_html/cdcc/forms/booking.php on line 135
+[23-Apr-2017 05:23:55 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 74
+[23-Apr-2017 05:23:55 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 86
+[23-Apr-2017 05:23:55 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 98
+[23-Apr-2017 05:23:55 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/triplej/public_html/cdcc/forms/booking.php on line 135
+[23-Apr-2017 05:24:40 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 74
+[23-Apr-2017 05:24:40 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 86
+[23-Apr-2017 05:24:40 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 98
+[23-Apr-2017 05:24:40 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/triplej/public_html/cdcc/forms/booking.php on line 135
+[23-Apr-2017 05:25:01 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 74
+[23-Apr-2017 05:25:01 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 86
+[23-Apr-2017 05:25:01 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 98
+[23-Apr-2017 05:25:01 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/triplej/public_html/cdcc/forms/booking.php on line 135
+[23-Apr-2017 05:26:20 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 74
+[23-Apr-2017 05:26:20 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 86
+[23-Apr-2017 05:26:20 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 98
+[23-Apr-2017 05:26:20 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/triplej/public_html/cdcc/forms/booking.php on line 135
+[23-Apr-2017 05:26:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 74
+[23-Apr-2017 05:26:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 86
+[23-Apr-2017 05:26:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 98
+[23-Apr-2017 05:26:43 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/triplej/public_html/cdcc/forms/booking.php on line 135
+[23-Apr-2017 05:27:38 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 74
+[23-Apr-2017 05:27:38 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 86
+[23-Apr-2017 05:27:38 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 98
+[23-Apr-2017 05:27:38 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/triplej/public_html/cdcc/forms/booking.php on line 135
+[23-Apr-2017 05:30:07 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 74
+[23-Apr-2017 05:30:07 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 86
+[23-Apr-2017 05:30:07 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 98
+[23-Apr-2017 05:30:07 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/triplej/public_html/cdcc/forms/booking.php on line 135
+[23-Apr-2017 05:31:21 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 74
+[23-Apr-2017 05:31:21 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 86
+[23-Apr-2017 05:31:21 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 98
+[23-Apr-2017 05:31:21 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/triplej/public_html/cdcc/forms/booking.php on line 135
+[23-Apr-2017 05:31:22 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 74
+[23-Apr-2017 05:31:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 86
+[23-Apr-2017 05:31:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 98
+[23-Apr-2017 05:31:23 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/triplej/public_html/cdcc/forms/booking.php on line 135
+[23-Apr-2017 05:31:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 74
+[23-Apr-2017 05:31:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 86
+[23-Apr-2017 05:31:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 98
+[23-Apr-2017 05:31:30 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/triplej/public_html/cdcc/forms/booking.php on line 135
+[23-Apr-2017 05:33:47 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 74
+[23-Apr-2017 05:33:47 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 86
+[23-Apr-2017 05:33:47 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 98
+[23-Apr-2017 05:33:47 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/triplej/public_html/cdcc/forms/booking.php on line 135
+[23-Apr-2017 05:33:56 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 74
+[23-Apr-2017 05:33:56 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 86
+[23-Apr-2017 05:33:56 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 98
+[23-Apr-2017 05:33:56 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/triplej/public_html/cdcc/forms/booking.php on line 135
+[23-Apr-2017 05:34:38 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 74
+[23-Apr-2017 05:34:38 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 86
+[23-Apr-2017 05:34:38 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 98
+[23-Apr-2017 05:34:38 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/triplej/public_html/cdcc/forms/booking.php on line 135
+[23-Apr-2017 05:35:02 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 74
+[23-Apr-2017 05:35:02 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 86
+[23-Apr-2017 05:35:02 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 98
+[23-Apr-2017 05:35:02 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/triplej/public_html/cdcc/forms/booking.php on line 135
+[23-Apr-2017 05:39:26 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 74
+[23-Apr-2017 05:39:26 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 86
+[23-Apr-2017 05:39:26 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 98
+[23-Apr-2017 05:39:26 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/triplej/public_html/cdcc/forms/booking.php on line 135
+[23-Apr-2017 05:40:54 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/triplej/public_html/cdcc/forms/chkavail.php on line 96
+[23-Apr-2017 05:40:54 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 74
+[23-Apr-2017 05:40:54 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 86
+[23-Apr-2017 05:40:54 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 98
+[23-Apr-2017 05:40:54 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/triplej/public_html/cdcc/forms/booking.php on line 135
+[23-Apr-2017 05:43:44 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/triplej/public_html/cdcc/forms/chkavail.php on line 96
+[23-Apr-2017 05:43:44 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 74
+[23-Apr-2017 05:43:44 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 86
+[23-Apr-2017 05:43:44 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 98
+[23-Apr-2017 05:43:44 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/triplej/public_html/cdcc/forms/booking.php on line 135
+[23-Apr-2017 05:45:20 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 74
+[23-Apr-2017 05:45:20 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 86
+[23-Apr-2017 05:45:20 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 98
+[23-Apr-2017 05:45:20 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/triplej/public_html/cdcc/forms/booking.php on line 135
+[23-Apr-2017 05:45:46 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/chkavail.php on line 77
+[23-Apr-2017 05:45:46 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/triplej/public_html/cdcc/forms/chkavail.php on line 91
+[23-Apr-2017 05:45:46 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 74
+[23-Apr-2017 05:45:46 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 86
+[23-Apr-2017 05:45:46 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 98
+[23-Apr-2017 05:45:46 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/triplej/public_html/cdcc/forms/booking.php on line 135
+[23-Apr-2017 05:47:26 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 74
+[23-Apr-2017 05:47:26 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 86
+[23-Apr-2017 05:47:26 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 98
+[23-Apr-2017 05:47:26 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/triplej/public_html/cdcc/forms/booking.php on line 135
+[23-Apr-2017 05:50:07 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 74
+[23-Apr-2017 05:50:07 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 86
+[23-Apr-2017 05:50:07 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 98
+[23-Apr-2017 05:50:28 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 74
+[23-Apr-2017 05:50:28 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 86
+[23-Apr-2017 05:50:28 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 98
+[23-Apr-2017 06:12:31 UTC] PHP Warning:  require_once(../../../mysqli_connect.php): failed to open stream: No such file or directory in /home/triplej/public_html/cdcc/forms/ubooking.php on line 2
+[23-Apr-2017 06:12:31 UTC] PHP Fatal error:  require_once(): Failed opening required '../../../mysqli_connect.php' (include_path='.;/path/to/php/pear') in /home/triplej/public_html/cdcc/forms/ubooking.php on line 2
+[23-Apr-2017 06:13:06 UTC] PHP Warning:  require_once(/../../mysqli_connect.php): failed to open stream: No such file or directory in /home/triplej/public_html/cdcc/forms/ubooking.php on line 2
+[23-Apr-2017 06:13:06 UTC] PHP Fatal error:  require_once(): Failed opening required '/../../mysqli_connect.php' (include_path='.;/path/to/php/pear') in /home/triplej/public_html/cdcc/forms/ubooking.php on line 2
+[23-Apr-2017 06:37:00 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/triplej/public_html/cdcc/forms/ubooking.php on line 269
+[23-Apr-2017 06:38:51 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/triplej/public_html/cdcc/forms/ubooking.php on line 262
+[23-Apr-2017 06:38:53 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/triplej/public_html/cdcc/forms/ubooking.php on line 262
+[23-Apr-2017 06:39:11 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/triplej/public_html/cdcc/forms/ubooking.php on line 260
+[23-Apr-2017 06:39:14 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/triplej/public_html/cdcc/forms/ubooking.php on line 260
+[23-Apr-2017 06:41:09 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/ubooking.php on line 206
+[23-Apr-2017 06:50:17 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/triplej/public_html/cdcc/forms/ubooking.php on line 209
+[23-Apr-2017 06:50:55 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/triplej/public_html/cdcc/forms/ubooking.php on line 209
+[23-Apr-2017 07:19:43 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/triplej/public_html/cdcc/forms/ubooking.php on line 26
+[23-Apr-2017 07:21:15 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/triplej/public_html/cdcc/forms/ubooking.php on line 26
+[23-Apr-2017 07:23:06 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/triplej/public_html/cdcc/forms/ubooking.php on line 26
+[23-Apr-2017 07:27:33 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/triplej/public_html/cdcc/forms/ubooking.php on line 27
+[23-Apr-2017 07:28:42 UTC] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/triplej/public_html/cdcc/forms/ubooking.php on line 25
+[23-Apr-2017 07:35:59 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/triplej/public_html/cdcc/forms/ubooking.php on line 25
+[23-Apr-2017 07:45:34 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/triplej/public_html/cdcc/forms/ubooking.php on line 25
+[23-Apr-2017 07:48:53 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/triplej/public_html/cdcc/forms/ubooking.php on line 25
+[23-Apr-2017 07:51:30 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/triplej/public_html/cdcc/forms/ubooking.php on line 23
+[23-Apr-2017 07:56:43 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/triplej/public_html/cdcc/forms/ubooking.php on line 23
+[23-Apr-2017 08:00:00 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/triplej/public_html/cdcc/forms/ubooking.php on line 23
+[23-Apr-2017 16:25:16 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 75
+[23-Apr-2017 16:25:16 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 87
+[23-Apr-2017 16:25:16 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 99
+[23-Apr-2017 16:25:16 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/triplej/public_html/cdcc/forms/booking.php on line 136
+[23-Apr-2017 16:39:39 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 75
+[23-Apr-2017 16:39:39 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 87
+[23-Apr-2017 16:39:39 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 99
+[23-Apr-2017 16:39:39 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/triplej/public_html/cdcc/forms/booking.php on line 136
+[23-Apr-2017 16:41:47 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 75
+[23-Apr-2017 16:41:47 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 87
+[23-Apr-2017 16:41:47 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 99
+[23-Apr-2017 16:41:47 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/triplej/public_html/cdcc/forms/booking.php on line 136
+[23-Apr-2017 16:42:19 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 75
+[23-Apr-2017 16:42:19 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 87
+[23-Apr-2017 16:42:19 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 99
+[23-Apr-2017 16:42:19 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/triplej/public_html/cdcc/forms/booking.php on line 136
+[23-Apr-2017 16:46:01 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 75
+[23-Apr-2017 16:46:01 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 87
+[23-Apr-2017 16:46:01 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 99
+[23-Apr-2017 16:46:01 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/triplej/public_html/cdcc/forms/booking.php on line 136
+[23-Apr-2017 16:46:33 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 75
+[23-Apr-2017 16:46:33 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 87
+[23-Apr-2017 16:46:33 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 99
+[23-Apr-2017 16:46:33 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/triplej/public_html/cdcc/forms/booking.php on line 136
+[23-Apr-2017 16:48:00 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 75
+[23-Apr-2017 16:48:00 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 87
+[23-Apr-2017 16:48:00 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 99
+[23-Apr-2017 16:48:00 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/triplej/public_html/cdcc/forms/booking.php on line 136
+[23-Apr-2017 17:01:42 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 75
+[23-Apr-2017 17:01:42 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 87
+[23-Apr-2017 17:01:42 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 99
+[23-Apr-2017 17:01:42 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/triplej/public_html/cdcc/forms/booking.php on line 136
+[23-Apr-2017 18:04:59 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 75
+[23-Apr-2017 18:04:59 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 87
+[23-Apr-2017 18:04:59 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 99
+[23-Apr-2017 18:04:59 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/triplej/public_html/cdcc/forms/booking.php on line 136
+[24-Apr-2017 01:07:49 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 75
+[24-Apr-2017 01:07:49 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 87
+[24-Apr-2017 01:07:49 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 99
+[24-Apr-2017 01:07:49 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/triplej/public_html/cdcc/forms/booking.php on line 136
+[24-Apr-2017 01:11:03 UTC] PHP Warning:  require_once(../../../mysqli_connect.php): failed to open stream: No such file or directory in /home/triplej/public_html/cdcc/forms/ubooking.php on line 2
+[24-Apr-2017 01:11:03 UTC] PHP Fatal error:  require_once(): Failed opening required '../../../mysqli_connect.php' (include_path='.;/path/to/php/pear') in /home/triplej/public_html/cdcc/forms/ubooking.php on line 2
+[24-Apr-2017 01:11:48 UTC] PHP Warning:  require_once(../../../mysqli_connect.php): failed to open stream: No such file or directory in /home/triplej/public_html/cdcc/forms/ubooking.php on line 2
+[24-Apr-2017 01:11:48 UTC] PHP Fatal error:  require_once(): Failed opening required '../../../mysqli_connect.php' (include_path='.;/path/to/php/pear') in /home/triplej/public_html/cdcc/forms/ubooking.php on line 2
+[24-Apr-2017 01:12:15 UTC] PHP Warning:  require_once(../../../mysqli_connect.php): failed to open stream: No such file or directory in /home/triplej/public_html/cdcc/forms/ubooking.php on line 2
+[24-Apr-2017 01:12:15 UTC] PHP Fatal error:  require_once(): Failed opening required '../../../mysqli_connect.php' (include_path='.;/path/to/php/pear') in /home/triplej/public_html/cdcc/forms/ubooking.php on line 2
+[24-Apr-2017 01:13:31 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 75
+[24-Apr-2017 01:13:31 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 87
+[24-Apr-2017 01:13:31 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 99
+[24-Apr-2017 01:13:31 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/triplej/public_html/cdcc/forms/booking.php on line 136
+[24-Apr-2017 02:23:09 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 75
+[24-Apr-2017 02:23:09 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 87
+[24-Apr-2017 02:23:09 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/booking.php on line 99
+[24-Apr-2017 02:23:09 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/triplej/public_html/cdcc/forms/booking.php on line 136
+[25-Apr-2017 00:37:48 UTC] PHP Warning:  include(includes/header.php): failed to open stream: No such file or directory in /home/triplej/public_html/cdcc/login.php on line 47
+[25-Apr-2017 00:37:48 UTC] PHP Warning:  include(): Failed opening 'includes/header.php' for inclusion (include_path='.;/path/to/php/pear') in /home/triplej/public_html/cdcc/login.php on line 47
+[25-Apr-2017 00:37:48 UTC] PHP Warning:  include(includes/footer.php): failed to open stream: No such file or directory in /home/triplej/public_html/cdcc/login.php on line 69
+[25-Apr-2017 00:37:48 UTC] PHP Warning:  include(): Failed opening 'includes/footer.php' for inclusion (include_path='.;/path/to/php/pear') in /home/triplej/public_html/cdcc/login.php on line 69
+[25-Apr-2017 00:41:55 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/login.php on line 24
+[25-Apr-2017 00:45:07 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/triplej/public_html/cdcc/login.php on line 41
+[25-Apr-2017 00:53:33 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/triplej/public_html/cdcc/login.php on line 41
+[25-Apr-2017 00:54:17 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/triplej/public_html/cdcc/login.php on line 41
+[25-Apr-2017 01:03:15 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/triplej/public_html/cdcc/login.php on line 41
+[25-Apr-2017 01:04:24 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/triplej/public_html/cdcc/login.php:1) in /home/triplej/public_html/cdcc/login.php on line 44
+[25-Apr-2017 01:04:24 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/triplej/public_html/cdcc/login.php:1) in /home/triplej/public_html/cdcc/login.php on line 50
+[25-Apr-2017 01:09:35 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/triplej/public_html/cdcc/index.php on line 59
+[25-Apr-2017 01:10:44 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/triplej/public_html/cdcc/index.php:4) in /home/triplej/public_html/cdcc/index.php on line 6
+[25-Apr-2017 01:42:17 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/triplej/public_html/cdcc/includes/header.html on line 44
+[26-Apr-2017 04:04:27 UTC] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home/triplej/public_html/cdcc/report.php on line 249
+[26-Apr-2017 04:04:57 UTC] PHP Parse error:  syntax error, unexpected '$currentCust' (T_VARIABLE), expecting '(' in /home/triplej/public_html/cdcc/report.php on line 251
+[26-Apr-2017 04:12:02 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/triplej/public_html/cdcc/report.php on line 250
+[26-Apr-2017 04:19:04 UTC] PHP Parse error:  syntax error, unexpected '$prevCust' (T_VARIABLE) in /home/triplej/public_html/cdcc/report.php on line 248
+[26-Apr-2017 04:27:16 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/triplej/public_html/cdcc/report.php on line 257
+[26-Apr-2017 04:34:54 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/triplej/public_html/cdcc/report.php on line 254
+[26-Apr-2017 05:43:39 UTC] PHP Warning:  mysqli_error(): Couldn't fetch mysqli in /home/triplej/public_html/cdcc/forms/caterer.php on line 21
+[26-Apr-2017 05:43:39 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/triplej/public_html/cdcc/forms/caterer.php on line 23
+[26-Apr-2017 06:13:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/venue.php on line 102
+[26-Apr-2017 06:15:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/venue.php on line 102
+[26-Apr-2017 06:17:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/venue.php on line 103
+[26-Apr-2017 06:19:07 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/venue.php on line 103
+[26-Apr-2017 06:22:28 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/venue.php on line 103
+[26-Apr-2017 06:27:53 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/venue.php on line 110
+[26-Apr-2017 06:32:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/venue.php on line 110
+[26-Apr-2017 06:33:21 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/triplej/public_html/cdcc/forms/venue.php on line 35
+[26-Apr-2017 06:34:51 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/venue.php on line 111
+[26-Apr-2017 06:36:10 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/venue.php on line 111
+[26-Apr-2017 06:37:46 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/venue.php on line 111
+[26-Apr-2017 06:40:27 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/venue.php on line 111
+[26-Apr-2017 06:43:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/venue.php on line 111
+[26-Apr-2017 06:44:59 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/venue.php on line 111
+[26-Apr-2017 06:46:11 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/venue.php on line 110
+[27-Apr-2017 02:58:52 UTC] PHP Warning:  include(forms/uvendor.php): failed to open stream: No such file or directory in /home/triplej/public_html/cdcc/modifyvn.php on line 33
+[27-Apr-2017 02:58:52 UTC] PHP Warning:  include(): Failed opening 'forms/uvendor.php' for inclusion (include_path='.;/path/to/php/pear') in /home/triplej/public_html/cdcc/modifyvn.php on line 33
+[27-Apr-2017 03:18:10 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/triplej/public_html/cdcc/forms/uvenue.php on line 176
+[27-Apr-2017 03:36:31 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/uvenue.php on line 207
+[27-Apr-2017 03:36:31 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/triplej/public_html/cdcc/forms/uvenue.php on line 228
+[27-Apr-2017 03:42:35 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/uvenue.php on line 207
+[27-Apr-2017 03:42:35 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/triplej/public_html/cdcc/forms/uvenue.php on line 228
+[27-Apr-2017 03:43:52 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/uvenue.php on line 206
+[27-Apr-2017 03:43:52 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/triplej/public_html/cdcc/forms/uvenue.php on line 227
+[27-Apr-2017 03:47:22 UTC] PHP Parse error:  syntax error, unexpected '$RoomName' (T_VARIABLE) in /home/triplej/public_html/cdcc/forms/uvenue.php on line 36
+[27-Apr-2017 03:48:44 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/uvenue.php on line 206
+[27-Apr-2017 03:48:44 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/triplej/public_html/cdcc/forms/uvenue.php on line 227
+[27-Apr-2017 05:44:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/triplej/public_html/cdcc/forms/ucust.php on line 144

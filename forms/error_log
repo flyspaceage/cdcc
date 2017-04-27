@@ -1,0 +1,67 @@
+[21-Apr-2017 22:02:11 UTC] PHP Warning:  require_once(../../mysqli_connect.php): failed to open stream: No such file or directory in /home/triplej/public_html/cdcc/forms/booking.php on line 2
+[21-Apr-2017 22:02:11 UTC] PHP Fatal error:  require_once(): Failed opening required '../../mysqli_connect.php' (include_path='.;/path/to/php/pear') in /home/triplej/public_html/cdcc/forms/booking.php on line 2
+[21-Apr-2017 22:02:17 UTC] PHP Warning:  require_once(../../mysqli_connect.php): failed to open stream: No such file or directory in /home/triplej/public_html/cdcc/forms/caterer.php on line 2
+[21-Apr-2017 22:02:17 UTC] PHP Fatal error:  require_once(): Failed opening required '../../mysqli_connect.php' (include_path='.;/path/to/php/pear') in /home/triplej/public_html/cdcc/forms/caterer.php on line 2
+[21-Apr-2017 22:03:53 UTC] PHP Warning:  require_once(../../mysqli_connect.php): failed to open stream: No such file or directory in /home/triplej/public_html/cdcc/forms/customers.php on line 3
+[21-Apr-2017 22:03:53 UTC] PHP Fatal error:  require_once(): Failed opening required '../../mysqli_connect.php' (include_path='.;/path/to/php/pear') in /home/triplej/public_html/cdcc/forms/customers.php on line 3
+[21-Apr-2017 22:03:58 UTC] PHP Warning:  require_once(../../mysqli_connect.php): failed to open stream: No such file or directory in /home/triplej/public_html/cdcc/forms/venue.php on line 2
+[21-Apr-2017 22:03:58 UTC] PHP Fatal error:  require_once(): Failed opening required '../../mysqli_connect.php' (include_path='.;/path/to/php/pear') in /home/triplej/public_html/cdcc/forms/venue.php on line 2
+[21-Apr-2017 22:06:45 UTC] PHP Warning:  require_once(../../mysqli_connect.php): failed to open stream: No such file or directory in /home/triplej/public_html/cdcc/forms/venue.php on line 2
+[21-Apr-2017 22:06:45 UTC] PHP Fatal error:  require_once(): Failed opening required '../../mysqli_connect.php' (include_path='.;/path/to/php/pear') in /home/triplej/public_html/cdcc/forms/venue.php on line 2
+[21-Apr-2017 22:06:46 UTC] PHP Warning:  require_once(../../mysqli_connect.php): failed to open stream: No such file or directory in /home/triplej/public_html/cdcc/forms/venue.php on line 2
+[21-Apr-2017 22:06:46 UTC] PHP Fatal error:  require_once(): Failed opening required '../../mysqli_connect.php' (include_path='.;/path/to/php/pear') in /home/triplej/public_html/cdcc/forms/venue.php on line 2
+[21-Apr-2017 22:06:48 UTC] PHP Warning:  require_once(../../mysqli_connect.php): failed to open stream: No such file or directory in /home/triplej/public_html/cdcc/forms/caterer.php on line 2
+[21-Apr-2017 22:06:48 UTC] PHP Fatal error:  require_once(): Failed opening required '../../mysqli_connect.php' (include_path='.;/path/to/php/pear') in /home/triplej/public_html/cdcc/forms/caterer.php on line 2
+[21-Apr-2017 22:06:50 UTC] PHP Warning:  require_once(../../mysqli_connect.php): failed to open stream: No such file or directory in /home/triplej/public_html/cdcc/forms/customers.php on line 3
+[21-Apr-2017 22:06:50 UTC] PHP Fatal error:  require_once(): Failed opening required '../../mysqli_connect.php' (include_path='.;/path/to/php/pear') in /home/triplej/public_html/cdcc/forms/customers.php on line 3
+[22-Apr-2017 04:22:21 UTC] PHP Warning:  require_once(../../mysqli_connect.php): failed to open stream: No such file or directory in /home/triplej/public_html/cdcc/forms/booking.php on line 2
+[22-Apr-2017 04:22:21 UTC] PHP Fatal error:  require_once(): Failed opening required '../../mysqli_connect.php' (include_path='.;/path/to/php/pear') in /home/triplej/public_html/cdcc/forms/booking.php on line 2
+[22-Apr-2017 07:33:49 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/triplej/public_html/cdcc/forms/ubooking.php on line 5
+[22-Apr-2017 07:34:15 UTC] PHP Parse error:  syntax error, unexpected '$newbookresult' (T_VARIABLE) in /home/triplej/public_html/cdcc/forms/ubooking.php on line 35
+[22-Apr-2017 07:34:57 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/triplej/public_html/cdcc/forms/ubooking.php on line 111
+[22-Apr-2017 07:42:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/ubooking.php on line 63
+[22-Apr-2017 07:42:19 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/ubooking.php on line 63
+[22-Apr-2017 07:42:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/ubooking.php on line 63
+[22-Apr-2017 07:42:28 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/ubooking.php on line 63
+[22-Apr-2017 07:44:05 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/triplej/public_html/cdcc/forms/ubooking.php on line 63
+[22-Apr-2017 08:05:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function 2017-03-26 04:07:00() in /home/triplej/public_html/cdcc/forms/ubooking.php:161
+Stack trace:
+#0 {main}
+  thrown in /home/triplej/public_html/cdcc/forms/ubooking.php on line 161
+[22-Apr-2017 08:05:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function 2017-03-26 04:07:00() in /home/triplej/public_html/cdcc/forms/ubooking.php:161
+Stack trace:
+#0 {main}
+  thrown in /home/triplej/public_html/cdcc/forms/ubooking.php on line 161
+[22-Apr-2017 08:06:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function 2017-03-26 04:07:00() in /home/triplej/public_html/cdcc/forms/ubooking.php:161
+Stack trace:
+#0 {main}
+  thrown in /home/triplej/public_html/cdcc/forms/ubooking.php on line 161
+[22-Apr-2017 08:07:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function 2017-03-24 16:07:00() in /home/triplej/public_html/cdcc/forms/ubooking.php:157
+Stack trace:
+#0 {main}
+  thrown in /home/triplej/public_html/cdcc/forms/ubooking.php on line 157
+[22-Apr-2017 08:12:14 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/triplej/public_html/cdcc/forms/ubooking.php on line 161
+[22-Apr-2017 08:12:30 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/triplej/public_html/cdcc/forms/ubooking.php on line 161
+[22-Apr-2017 08:17:44 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/triplej/public_html/cdcc/forms/ubooking.php on line 161
+[22-Apr-2017 08:20:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function strototime() in /home/triplej/public_html/cdcc/forms/ubooking.php:161
+Stack trace:
+#0 {main}
+  thrown in /home/triplej/public_html/cdcc/forms/ubooking.php on line 161
+[22-Apr-2017 08:23:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function strototime() in /home/triplej/public_html/cdcc/forms/ubooking.php:161
+Stack trace:
+#0 {main}
+  thrown in /home/triplej/public_html/cdcc/forms/ubooking.php on line 161
+[22-Apr-2017 08:28:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function 2017-03-26 04:07:00() in /home/triplej/public_html/cdcc/forms/ubooking.php:161
+Stack trace:
+#0 {main}
+  thrown in /home/triplej/public_html/cdcc/forms/ubooking.php on line 161
+[22-Apr-2017 08:30:59 UTC] PHP Warning:  strtotime() expects parameter 2 to be integer, string given in /home/triplej/public_html/cdcc/forms/ubooking.php on line 161
+[22-Apr-2017 08:34:14 UTC] PHP Warning:  strtotime() expects parameter 2 to be integer, string given in /home/triplej/public_html/cdcc/forms/ubooking.php on line 161
+[22-Apr-2017 08:34:43 UTC] PHP Warning:  strtotime() expects parameter 2 to be integer, string given in /home/triplej/public_html/cdcc/forms/ubooking.php on line 161
+[22-Apr-2017 08:38:26 UTC] PHP Warning:  strtotime() expects parameter 2 to be integer, string given in /home/triplej/public_html/cdcc/forms/ubooking.php on line 161
+[22-Apr-2017 08:41:39 UTC] PHP Warning:  strtotime() expects parameter 2 to be integer, string given in /home/triplej/public_html/cdcc/forms/ubooking.php on line 161
+[22-Apr-2017 08:42:12 UTC] PHP Warning:  strtotime() expects parameter 2 to be integer, string given in /home/triplej/public_html/cdcc/forms/ubooking.php on line 161
+[23-Apr-2017 06:01:06 UTC] PHP Parse error:  syntax error, unexpected 'center' (T_STRING), expecting ',' or ';' in /home/triplej/public_html/cdcc/forms/ubooking.php on line 10
+[23-Apr-2017 06:01:08 UTC] PHP Parse error:  syntax error, unexpected 'center' (T_STRING), expecting ',' or ';' in /home/triplej/public_html/cdcc/forms/ubooking.php on line 10
+[23-Apr-2017 06:01:34 UTC] PHP Fatal error:  'goto' to undefined label 'theEnd' in /home/triplej/public_html/cdcc/forms/ubooking.php on line 11
+[23-Apr-2017 06:09:30 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/triplej/public_html/cdcc/forms/ubooking.php on line 74

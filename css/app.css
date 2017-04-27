@@ -1,0 +1,97 @@
+/* *********************************************************
+HEADER
+********************************************************* */
+header {
+	background-color: #222;
+	width: 100%;
+	font-family: 'Arsenal', sans-serif;
+}
+
+.menu {
+	font-family: 'Arsenal', sans-serif;
+
+}
+
+.main .enter h5 {
+	font-family: 'Arsenal', sans-serif;
+
+}
+
+.main .enter h3 {
+	font-family: 'Arsenal', sans-serif;
+
+}
+
+label  {
+	font-family: 'Arsenal', sans-serif;
+
+}
+
+/* *********************************************************
+SLIDER
+********************************************************* */
+.slider {
+
+}
+
+
+/* *********************************************************
+HERO
+********************************************************* */
+.hero {
+	width: 100%;
+	background-color: #fff;
+	color: #fff;
+	z-index: 100;
+	padding: 80px 120px;
+	background-image: url("../images/d6.jpg");
+	background-size: 100%;
+	display: inline-block;
+}
+
+.hero h1 {
+	font-family: 'Arsenal', sans-serif;
+}
+
+/* *********************************************************
+MAIN CONTENT
+********************************************************* */
+body {
+
+	font-family: 'Arsenal', sans-serif;
+}
+
+.main {
+	padding: 80px 0px;
+	border-top: 4px double #222;
+	border-bottom: 4px double #222;
+	font-family: 'Arsenal', sans-serif;
+
+
+}
+
+
+/* *********************************************************
+FOOTER
+********************************************************* */
+
+footer {
+	background-color: #d3d3d3;
+	padding: 50px 0px;
+	text-decoration: none;
+}
+
+footer a {
+ 	display: inline;
+ 	padding-left: 1em;
+ }
+
+footer h4 {
+	text-align: left;
+	font-family: 'Arsenal', sans-serif;
+
+}
+
+.footer-navigation {
+	display: block;
+}
